@@ -1,1 +1,1 @@
- ## A backdoor detector for BadNets trained on the YouTube Face dataset
+ ## This repo is for repairing BadNets which is a challenge from CSAW-HackML-2020
